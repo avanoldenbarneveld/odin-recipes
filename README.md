@@ -1,1 +1,1 @@
-This is the odin project recipes exercise.
+This is the odin project recipes exercise. It teaches you how to create a few pages with basic html properties, such as headings, lists, bold and links
